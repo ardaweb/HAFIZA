@@ -33,7 +33,7 @@ ___
 
 <details>
 <summary><b><i>KLIK INI SAYANG</i></b></summary>
-<a href="https://ardaweb.github.io/Hafiza/"><img src="https://i.ibb.co/2Sq3D6h/kisspng-transparency-love-heart-shapes-page-47-of-48-word2art-com-5d3de6d90c4218-3344841615643378810.png" alt="Hafiza I LOVE YOU" border="0"></a>
+<a href="https://ardaweb.github.io/HAFIZA/"><img src="https://i.ibb.co/2Sq3D6h/kisspng-transparency-love-heart-shapes-page-47-of-48-word2art-com-5d3de6d90c4218-3344841615643378810.png" alt="Hafiza I LOVE YOU" border="0"></a>
 </details>
 
 
